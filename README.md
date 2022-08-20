@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Life, Universe and Everything in between**
 
-- 📫 How to reach me **omsurj1@gmail.com or om.surj@learner.manipal.eduer.manipal.edu**
+- 📫 How to reach me **omsurj1@gmail.com or om.surj@learner.manipal.edu**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
