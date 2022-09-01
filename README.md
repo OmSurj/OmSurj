@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/om_surj" target="blank"><img src="https://img.shields.io/twitter/follow/om_surj?logo=twitter&style=for-the-badge" alt="om_surj" /></a> </p>
 
-- 🔭 I’m currently working on [Startup](https://formi.co.in/)
+- 🔭 I’m currently working on my [Startup](https://formi.co.in/)
 
 - 🌱 I’m currently learning **Machine Learning**
 
